@@ -136,7 +136,7 @@ By: Benjamin Spain
 ## Motivation
 - [High Tech Kids](https://hightechkids.org)
 - [FIRST Youth-Serving Non Profit](https://www.firstinspires.org)
-- [Iron Eagles FTC 17240 - New Life Academy](https://www.instagram.com/ironeaglesnla/)
+- [New Life Academy Robotics](https://www.youtube.com/watch?v=FmHC0kmDVho&t=2s) | [Iron Eagles FTC 17240 - Instagram](https://www.instagram.com/ironeaglesnla/) 
 - [Getting to yes: What you need to greenlight AI tools at your company](https://www.youtube.com/watch?v=jfFNZ0e-BaU&t=539s) 
 - [Large Language Models and The End of Programming – CS50 Tech Talk with Dr. Matt Welsh](https://www.youtube.com/watch?v=JhCl-GeT4jw&t=1200s)
 
