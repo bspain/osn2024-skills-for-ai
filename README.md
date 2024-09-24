@@ -139,6 +139,7 @@ By: Benjamin Spain
 - [New Life Academy Robotics](https://www.youtube.com/watch?v=FmHC0kmDVho&t=2s) | [Iron Eagles FTC 17240 - Instagram](https://www.instagram.com/ironeaglesnla/) 
 - [Getting to yes: What you need to greenlight AI tools at your company](https://www.youtube.com/watch?v=jfFNZ0e-BaU&t=539s) 
 - [Large Language Models and The End of Programming – CS50 Tech Talk with Dr. Matt Welsh](https://www.youtube.com/watch?v=JhCl-GeT4jw&t=1200s)
+- [The Death of the Junior Developer - Steve Yegge](https://sourcegraph.com/blog/the-death-of-the-junior-developer)
 
 ## Developer Journey
 - [Cavalcante: How to reach Developer Experience supreme level – Part one](https://medium.com/linkapi-solutions/how-to-reach-developer-experience-supreme-level-part-one-ed87015af29f)
