@@ -1,5 +1,6 @@
 # Adapting your Developer Skillset today for an AI-driven engineering industry tommorow 
 Presented at [Open Source North 2024](https://www.opensourcenorth.com/schedule-2024/)
+Presented at [Minnesota IT Symposium 2024](https://www.minnesotaitsymposium.com/agenda/session/1302078)
 
 By: Benjamin Spain
 
